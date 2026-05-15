@@ -67,7 +67,7 @@ Track spending, break it down by category, convert totals to foreign currencies,
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/shaktipriya13/Expense_Tracker.git
 cd Marketing_Mojio
 
 # Install dependencies
