@@ -21,6 +21,8 @@ A clean, fully-branded expense tracker built as a frontend internship showcase f
 
 Track spending, break it down by category, convert totals to foreign currencies, and pick up where you left off — data survives page refreshes.
 
+<img width="1918" height="897" alt="image" src="https://github.com/user-attachments/assets/eca5981b-66f6-4158-aa66-8e64c7d9893d" />
+
 ---
 
 ## Features
