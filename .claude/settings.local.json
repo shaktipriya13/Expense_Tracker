@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(npx eslint *)",
+      "Bash(Find \"d:\\\\Projects\\\\Freelancing\\\\Assignments\\\\Marketing_Mojio\\\\src\" -name \"*.jsx\" -o -name \"*.js\")",
+      "Bash(curl -s \"https://api.frankfurter.app/latest?from=USD&to=EUR,GBP,INR\")",
+      "Bash(curl -sL \"https://api.frankfurter.app/latest?from=USD&to=EUR,GBP,INR\")",
+      "Bash(curl -sI \"https://api.frankfurter.app/latest?from=USD&to=EUR,GBP,INR\")",
+      "Bash(curl -sL \"https://api.frankfurter.dev/v1/latest?from=USD&to=EUR,GBP,INR\")",
+      "PowerShell(Get-ChildItem -Path \"d:\\\\Projects\\\\Freelancing\\\\Assignments\\\\Marketing_Mojio\" -Recurse -Force | Select-Object -Property FullName, @{Name='Type';Expression={if\\($_.PSIsContainer\\){'DIR'}else{'FILE'}}} | Format-Table -AutoSize)"
+    ]
+  }
+}
